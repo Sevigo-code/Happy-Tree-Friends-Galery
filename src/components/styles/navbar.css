@@ -1,0 +1,16 @@
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(130, 1, 229, 0.774);
+    padding: 0.3rem;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.nav-bar img{
+    width: 60px;
+    margin-left: 20px;
+}
+

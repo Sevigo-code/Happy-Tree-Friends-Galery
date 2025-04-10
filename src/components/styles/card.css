@@ -1,0 +1,34 @@
+.character-card {
+    background-color: #f3f3f3a6;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+  }
+
+  .character-card:hover {
+    background-color: #f3f3f339;
+    transition: 0.25s ease-out;
+  }
+  
+  .character-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    text-align: center;
+  }
+  
+h3 {
+  font-size: 1.5em;
+  color: rgb(149, 149, 208);
+}
+
+.comments {
+  font-size: 22px;
+  font-family: "Bree Serif", serif;
+  color: black
+}
+

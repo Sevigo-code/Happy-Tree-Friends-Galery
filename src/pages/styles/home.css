@@ -1,0 +1,19 @@
+.home {
+    margin-top: 70px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6em;
+    margin-bottom: 30px;
+    
+}
+
+p {
+    font-size: 3em;
+    color: rgb(66, 4, 112);
+    margin: 40px 0px;
+}
